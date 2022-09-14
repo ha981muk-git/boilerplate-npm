@@ -1,6 +1,7 @@
 {
-	"author": "Harsh Mukhiya",
+	
 	"name": "fcc-learn-npm-package-json",
+	"author": "harsh",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
